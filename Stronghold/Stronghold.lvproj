@@ -117,6 +117,9 @@ AddOutputFilter chunkFilter
 			<Property Name="NI.SortType" Type="Int">3</Property>
 			<Item Name="SubVIS" Type="Folder">
 				<Item Name="2039_BackTalonOut.vi" Type="VI" URL="../2039_BackTalonOut.vi"/>
+				<Item Name="2039_hw Talon Get Metrics.vi" Type="VI" URL="../2039 Control System Library.llb/2039_hw Talon Get Metrics.vi"/>
+				<Item Name="2039_hw Talon Get Faults.vi" Type="VI" URL="../2039 Control System Library.llb/2039_hw Talon Get Faults.vi"/>
+				<Item Name="2039_hw Dash Prep Faults for NT transmit.vi" Type="VI" URL="../2039 Control System Library.llb/2039_hw Dash Prep Faults for NT transmit.vi"/>
 			</Item>
 			<Item Name="Autonomous Independent.vi" Type="VI" URL="../Autonomous Independent.vi"/>
 			<Item Name="Begin.vi" Type="VI" URL="../Begin.vi"/>
